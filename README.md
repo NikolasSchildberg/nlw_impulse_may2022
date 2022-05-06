@@ -9,7 +9,7 @@ her/his message, and submission to backend for proper routing and processing.
 
 It will be implemented for mobile and web.
 
-##Technologies used (some of the frameworks, libs and tools):
+## Technologies used (some of the frameworks, libs and tools):
 - Node.JS
 - React.JS
 - Typescript
