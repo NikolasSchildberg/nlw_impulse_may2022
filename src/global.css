@@ -2,6 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Learning :) */
 /* .butt {
     @apply bg-violet-500 px-4 h-20 rounded text-violet-100;
 } */
+
+body {
+    @apply bg-[#09090a] text-zinc-100
+}
